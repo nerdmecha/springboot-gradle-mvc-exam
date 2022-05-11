@@ -1,4 +1,4 @@
-# springboot-gradle-test
-<h3>Don't Give Up, Snap Out of Bad Memories!</h3>
-<p>for my life, for my future...</p>
-<p>Used Tools : Spring Initializr, Visual Studio Code, POSTMAN</p>
+### springboot-gradle-test
+> ***Don't Give Up, Snap Out of Bad Memories for my Life, for my Future...***
+<p>Used Tools : Visual Studio Code, Postman, Spring Initializr</p>
+<p>Inspired by Kim Young Han(Woowa Bros)</p>
