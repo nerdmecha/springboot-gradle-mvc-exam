@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+    background-color: #4731FF;
+}
+
+h2.sorry {
+    font-size: larger;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+p.read {
+    font-size: medium;
+    font-weight: thin;
+    font-style: italic;
+    color: #FFFFFF;
+}
+
+p.error-code {
+    font-size: medium;
+    font-weight: thin;
+    font-style: italic;
+    color: #FF0000;
+}
