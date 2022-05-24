@@ -1,7 +1,7 @@
 package com.board.demo0524.web.servlet;
 
-import com.board.demo0524.member.Member;
-import com.board.demo0524.member.MemberRepository;
+import com.board.demo0524.domain.member.Member;
+import com.board.demo0524.domain.member.MemberRepository;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

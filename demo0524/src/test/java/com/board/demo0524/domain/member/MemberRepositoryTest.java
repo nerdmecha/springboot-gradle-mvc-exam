@@ -3,10 +3,6 @@ package com.board.demo0524.domain.member;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
-import com.board.demo0524.member.Member;
-
-import com.board.demo0524.member.MemberRepository;
-
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.*;
